@@ -45,6 +45,7 @@ namespace HumanBeing
                     break;
                 case "de-DE":
                     return "Hallo... und Herzlich Willkommen auf meinem GitHub-Profil!";
+                    break;
                 default:
                     return "I'm sorry, I don't speak your language... yet.";
                     break;
